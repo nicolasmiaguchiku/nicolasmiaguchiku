@@ -6,16 +6,20 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmiaguchiku&layout=compact&langs_count=16&theme=darcula"/>
 </div>
 <div align ="center">
-    <img width="40" height="40" alt="C#" src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
-    <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width: 100%;"></img>
-    <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" style="max-width: 100%;"></img>
-    <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"></img>
-    <img width="40"  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="40"   height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="40"  height="40" alt="joao-git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>  
+    <img width="40" height="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <hr>
+
+### Main projects:
+[Transaction API RESTFul - Best Practices](https://github.com/nicolasmiaguchiku/TransactionApi)
 
 <div align ="center">
     <h3>Contatos:</h3>
