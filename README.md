@@ -26,16 +26,6 @@ Sou um desenvolvedor focado em **.NET**, **arquitetura limpa**, **boas práticas
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-- **Backend:** C#, .NET, ASP.NET Core, FluentValidation, CQRS, MediatR  
-- **Banco de Dados:** SQL Server, MongoDB  
-- **Mensageria:** RabbitMQ 
-- **Containerização:** Docker, Docker Compose  
-- **Monitoramento / Logs:** Serilog, Seq  
-- **Testes:** xUnit, Moq, AutoFixture  
-
----
-
 ## 📌 Projetos em Destaque
 
 ### 🔹 FoodManger.Catalog API RESTful (Best Practices)
@@ -43,15 +33,15 @@ API completa com:
 - Clean Architecture  
 - CQRS + Repository Pattern  
 - FluentValidation  
-- Docker + MongoDB/SQL  
+- Docker
+- MongoDB/SQL
+- Teste com xUnit 
 - Logging com Serilog  
 - Versionamento de API  
 👉 **Repositório:** [https://github.com/nicolasmiaguchiku/TransactionApi](https://github.com/nicolasmiaguchiku/FoodManager.Catalog)
 
 ---
-
-## 🌎 Onde me encontrar
-
+## Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolas-miaguchiku/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -60,10 +50,4 @@ API completa com:
   <a href="mailto:nicolaseeisuke@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
-
----
-
-<div align="center">
-  <p>⭐ Sempre melhorando e buscando novas ferramentas e práticas!</p>
 </div>
