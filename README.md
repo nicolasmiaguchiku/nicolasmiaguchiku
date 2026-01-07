@@ -22,7 +22,7 @@
 
 ## 🚀 Sobre mim
 Sou um desenvolvedor focado em **.NET**, **arquitetura limpa**, **boas práticas**, **DevOps** e **bancos SQL/NoSQL**.  
-**design patterns**, **otimização de APIs**. Tenho 1 ano de experiência com projetos praticos sempre buscando a qualidade e performance das aplicações. .
+**design patterns**, **otimização de APIs**. Tenho experiência com projetos praticos sempre buscando a qualidade e performance das aplicações.
 
 ---
 
