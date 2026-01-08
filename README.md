@@ -38,7 +38,7 @@ API completa com:
 - Teste com xUnit 
 - Logging com Serilog  
 - Versionamento de API  
-👉 **Repositório:** [https://github.com/nicolasmiaguchiku/TransactionApi](https://github.com/nicolasmiaguchiku/FoodManager.Catalog)
+👉 **Repositório:** [https://github.com/nicolasmiaguchiku/FoodManager.Catalog](https://github.com/nicolasmiaguchiku/FoodManager.Catalog)
 
 ---
 ## Contato
