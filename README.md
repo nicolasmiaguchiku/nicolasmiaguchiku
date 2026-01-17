@@ -28,7 +28,7 @@ Sou um desenvolvedor focado em **.NET**, **arquitetura limpa**, **boas práticas
 
 ## 📌 Projetos em Destaque
 
-### 🔹 FoodManger.Catalog API RESTful (Best Practices)
+### 🔹 FoodManger.Catalog API RESTful
 API completa com:
 - Clean Architecture  
 - CQRS + Repository Pattern  
